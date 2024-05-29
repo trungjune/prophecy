@@ -1,0 +1,25 @@
+#######################
+How to update Prophecy from version 5.0 to version 5.1
+#######################
+
+1) replace in routes/web.php
+
+2) replace in app folder
+
+3) replace in resources/views folder
+
+4) replace in database/migrations folder
+
+5) Open your browser and visit http://your-sitename/migrate
+
+6) Again visit http://your-sitename/gateway-update
+
+
+******* [optional] if you want run midtrans gateway, you have add this on your composer
+
+command: composer require midtrans/midtrans-php
+
+#######################
+Complete Update
+######################
+
